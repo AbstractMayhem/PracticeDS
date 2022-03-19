@@ -1,5 +1,6 @@
 # Data Structure 
 
+Repository for Basic Data Structures examples.
 ## Table of contents
 
 * [Strings](#strings)
