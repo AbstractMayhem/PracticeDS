@@ -10,6 +10,3 @@
 * [Trees](#tree)
 * [Graphs](#graph)
 * [Dynamic Programming](#DP)
-
-
-
